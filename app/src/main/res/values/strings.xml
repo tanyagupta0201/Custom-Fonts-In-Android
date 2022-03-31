@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Custom Fonts</string>
+
+    <string name="english">Tanya Gupta</string>
+    <string name="hindi">तान्या गुप्ता</string>
+    <string name="turkish">teşekkür ederim</string>
+
+</resources>
